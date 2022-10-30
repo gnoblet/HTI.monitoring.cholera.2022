@@ -42,7 +42,7 @@ usethis::use_readme_rmd(open = FALSE)
 # usethis::use_news_md(open = FALSE)
 
 ## Use git ----
-usethis::use_git()
+# usethis::use_git()
 
 ## Init Testing Infrastructure ----
 ## Create a template for tests
